@@ -1,0 +1,3 @@
+Java SE must be installed
+left click to add sheep
+right click to add wolf
